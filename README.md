@@ -36,9 +36,9 @@ The [Amazon dataset](http://jmcauley.ucsd.edu/data/amazon/index.html) contains t
 
 This is the Jupyter notebook that contains the entire study along with the source code. The dataset is too large to upload for the free LFS but the code references the link to the original dataset.
 
-**b. Final Report**
+**b. Capstone Project II - Final Report**
 
-This is the condensed presentation slides that summarizes the whole report in slides.
+This is the condensed presentation slides that summarizes the whole study in slides.
 
 **c. Capstone Project II - Milestone Report 1**
 
