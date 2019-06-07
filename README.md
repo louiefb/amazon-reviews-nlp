@@ -59,4 +59,4 @@ This is the interim report submitted prior to applying actual machine learning t
 
 **d.  Capstone Project II - Milestone Report 2**
 
-The is the report that includes the Machine Learning and the Conclusion sections.
+The interim report that includes the Machine Learning and the Conclusion sections.
